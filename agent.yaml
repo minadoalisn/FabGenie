@@ -1,0 +1,4 @@
+name: "艾里森设计部 FabGenie 2.5"
+model: "qwen-max"
+description: "AI 驱动的灯光装置快速打样系统"
+icon: "https://raw.githubusercontent.com/minadoalisn/FabGenie/main/assets/logo-fabgenie-2.5.svg"
